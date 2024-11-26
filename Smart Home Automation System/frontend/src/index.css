@@ -1,0 +1,34 @@
+:root {
+  /* background colors */
+  --bg-primary-color: #022737;
+  --bg-secondary-color: #03202D;
+  --bg-tertiary-color: #121F32;
+  --bg-quaternary-color: #CFE2FF;
+
+  /* font colors */
+  --font-primary-color: #fff;
+  --font-secondary-color: #639DF4;
+
+  /* font */
+  --font: 'Poppins', sans-serif;
+
+  /* button color */
+  --button-color: #5C3AF6;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  overflow-x: hidden;
+  width: 100%;
+  position: relative;
+}
+
+#root {
+  width: 100%;
+  overflow-x: hidden;
+}

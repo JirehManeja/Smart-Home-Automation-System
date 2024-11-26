@@ -1,0 +1,17 @@
+.lh-container {
+    background-color: var(--bg-secondary-color);
+}
+
+.sub-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 100px 0 100px;
+    padding: 10px;
+}
+
+.button-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

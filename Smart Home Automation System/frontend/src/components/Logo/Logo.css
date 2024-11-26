@@ -1,0 +1,24 @@
+.logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: transparent;
+    height: 70px;
+    width: 200px;
+}
+
+.logo {
+    height: 30px;
+    width: 46px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.logo-text {
+    font-family: var(--font);
+    color: var(--font-primary-color);
+
+    margin-top: 5px;
+    font-size: 32px;
+    font-weight: bold;
+}

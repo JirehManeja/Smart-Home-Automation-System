@@ -1,0 +1,25 @@
+.extra-wrapper {
+    background-color: var(--bg-primary-color);
+}
+
+.extra-container {
+    background-color: transparent;
+    margin: 0 100px 0 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+}
+
+.tagline {
+    font-family: var(--font);
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+}
